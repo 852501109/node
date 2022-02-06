@@ -4,8 +4,6 @@ import { defineComponent, ref, reactive,onMounted,toRefs, getCurrentInstance } f
 
 // import {  ApiLogglist,Requirechannels,RequireEdition } from "@/api/Interface";
 // import {  sevenDAYS, } from "@/utils/unilt";
-// 测试下CI/CD
-// 测试下CI/CD1
 import imgUpload from  './components/imgUpload/imgUpload.vue';
 import example from  './components/example.vue';
 import { ElMessage } from 'element-plus'
